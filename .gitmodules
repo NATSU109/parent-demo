@@ -1,0 +1,3 @@
+[submodule "third_party/child-demo"]
+	path = third_party/child-demo
+	url = https://github.com/NATSU109/child-demo.git
